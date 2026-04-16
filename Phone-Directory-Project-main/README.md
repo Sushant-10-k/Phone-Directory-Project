@@ -1,6 +1,6 @@
 # Contact Book Application - Quick Start
 
-## 🚀 Get Started in 5 Minutes
+## Get Started in 5 Minutes
 
 ### Step 1: Setup Backend
 
@@ -28,7 +28,7 @@ Go to `http://localhost:3000` and start managing contacts!
 
 ---
 
-## 📋 Features
+##  Features
 
 ✅ **Add Contacts** - Enter complete contact information  
 ✅ **Search** - Find contacts by name, email, or phone  
@@ -38,7 +38,7 @@ Go to `http://localhost:3000` and start managing contacts!
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 - **Setup Guide**: [SETUP.md](./SETUP.md)
 - **API Documentation**: [API_DOCUMENTATION.md](./API_DOCUMENTATION.md)
@@ -46,7 +46,7 @@ Go to `http://localhost:3000` and start managing contacts!
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Frontend**: React 18, CSS3
 - **Backend**: Express.js, Node.js
@@ -54,7 +54,7 @@ Go to `http://localhost:3000` and start managing contacts!
 
 ---
 
-## 📞 Support
+##  Support
 
 For issues or questions, refer to the documentation files or the Troubleshooting section in SETUP.md.
 
